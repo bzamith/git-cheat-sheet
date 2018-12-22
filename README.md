@@ -3,6 +3,33 @@ git-cheat-sheet
 
 A cheat sheet of useful git commands.
 
+## My version (Zamith)
+Iniciar...
+
+	git init 
+Ir pra pasta que foi clonada no passado ou...
+
+	git clone [link-repo]
+
+Copiar os arquivos lá e então...
+
+	git add nome_do_arquivo_ou_pasta
+	
+Se eu quiser remover...
+
+	git rm nome_do_arquivo
+
+	git rm -r nome_da_pasta
+	
+Dá um commit...
+
+	git commit -a -m "teste"
+
+E por fim...
+
+	git push
+
+
 ## Assumptions
 
 This cheat sheet assumes that:
