@@ -21,9 +21,13 @@ Se eu quiser remover...
 
 	git rm -r nome_da_pasta
 	
+Se eu quiser renomear...
+	
+	git mv antigo novo
+	
 Dá um commit...
 
-	git commit -a -m "teste"
+	git commit -m "teste"
 
 E por fim...
 
@@ -40,6 +44,12 @@ Se tiver problemas de sincronização...
 	git reset --hard origin/master
 	
 	git clean -f -d
+
+
+
+
+
+
 
 ## Assumptions
 
