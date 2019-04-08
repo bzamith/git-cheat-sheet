@@ -29,6 +29,17 @@ E por fim...
 
 	git push
 
+Se tiver problemas de sincronização...
+	
+	git pull
+	
+	git status
+	
+	git fetch origin
+	
+	git reset --hard origin/master
+	
+	git clean -f -d
 
 ## Assumptions
 
